@@ -9,6 +9,7 @@ There have been several problems with permanent motor speed while conveying the 
 Many systems of controlling the speed of dc motor have been established but this one is pretty easy and flexible as long it is only to rotate the accelerator of a potentiometer for a desired conveyor belt speed. The study has interviews from eleven K-12 teachers in charge of different courses and subjects.
 
 # Block diagram and description
+![image](https://user-images.githubusercontent.com/104390934/165178789-2e1e95e4-d98d-4d78-aa66-8fb4b951fc49.png)
 
 
 Block diagram of controlling the conveyor belt (dc motor) using a potentiometer
@@ -22,6 +23,9 @@ DC motor: a 5V motor (conveyor belt driver) run under the conditions provided by
 
 
 # Circuit diagram drawn in fritzing
+![image](https://user-images.githubusercontent.com/104390934/165178503-b0ff859b-c180-4165-9c42-a384d99083c8.png)
+# Circuit simulated in proteus
+![image](https://user-images.githubusercontent.com/104390934/165178614-881f4110-0b4f-4cdb-8051-a97e8ef880d3.png)
 
 # Arduino Source code of controlling the speed of a dc motor using potentiometer
 
@@ -62,4 +66,6 @@ void loop() {
 
 
 # Below is the circuit diagram using a potentiometer and Arduino to control motor speed
+![image](https://user-images.githubusercontent.com/104390934/165178429-c21d7bbc-de57-42d2-a5ce-803bd9c9c9a7.png)
+
 
